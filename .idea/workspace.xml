@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f00bbaf-1e5f-4d0c-9e51-adebbdd24acc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-exercise2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitalizedEachWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lulusTakLulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumGanjil.java" afterDir="false" />
+    <list default="true" id="0f00bbaf-1e5f-4d0c-9e51-adebbdd24acc" name="Changes" comment="latihan2Nov">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/alternativeCapitalizedEachWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/capitalizedEachWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/capitalizedEachWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumGanjil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumGanjil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +27,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -49,6 +47,21 @@
       <option name="presentableId" value="Default" />
       <updated>1667347849739</updated>
     </task>
+    <task id="LOCAL-00001" summary="latihan2Nov">
+      <created>1667402147415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667402147415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="latihan2Nov">
+      <created>1667402188830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667402188830</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="latihan2Nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="latihan2Nov" />
   </component>
 </project>

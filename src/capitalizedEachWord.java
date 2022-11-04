@@ -25,7 +25,7 @@ public class capitalizedEachWord {
             }
         }
         // print array
-        for (char x : arrayText) {
+        for (char x : arrayText) { // khusus untuk array, no increment
             System.out.print(x);
         }
     }
